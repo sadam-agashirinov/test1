@@ -16,5 +16,7 @@ namespace winformsTestApp
         {
             InitializeComponent();
         }
+        
+        public string description = "new variable";
     }
 }
