@@ -1,0 +1,8 @@
+C:\Projects\GitHub\test1\winformsTestApp\winformsTestApp\bin\Debug\winformsTestApp.exe.config
+C:\Projects\GitHub\test1\winformsTestApp\winformsTestApp\bin\Debug\winformsTestApp.exe
+C:\Projects\GitHub\test1\winformsTestApp\winformsTestApp\bin\Debug\winformsTestApp.pdb
+C:\Projects\GitHub\test1\winformsTestApp\winformsTestApp\obj\Debug\winformsTestApp.csprojResolveAssemblyReference.cache
+C:\Projects\GitHub\test1\winformsTestApp\winformsTestApp\obj\Debug\winformsTestApp.Properties.Resources.resources
+C:\Projects\GitHub\test1\winformsTestApp\winformsTestApp\obj\Debug\winformsTestApp.csproj.GenerateResource.Cache
+C:\Projects\GitHub\test1\winformsTestApp\winformsTestApp\obj\Debug\winformsTestApp.exe
+C:\Projects\GitHub\test1\winformsTestApp\winformsTestApp\obj\Debug\winformsTestApp.pdb
