@@ -20,5 +20,6 @@ namespace winformsTestApp
         public string description = "new variable";
         private int minSize = 10;
         private int maxSize = 1000;
+        private int avgSize = 500;
     }
 }
